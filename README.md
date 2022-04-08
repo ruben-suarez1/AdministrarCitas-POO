@@ -1,2 +1,0 @@
-
-validacion de formulario, clases, 
